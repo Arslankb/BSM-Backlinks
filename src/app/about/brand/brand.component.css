@@ -1,0 +1,32 @@
+.brand-wrapper{
+    padding: 100px 0;
+}
+
+.brand-wrapper .desc{
+    padding-top: 70px;
+}
+
+.brand-wrapper .brand-text{
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: var(--text-font);
+    text-transform: uppercase;
+    color: var(--primary-color);
+}
+
+.brand-wrapper .brand-title{
+    font-size: 40px;
+    font-weight: 800;
+    font-family: var(--text-font);
+    line-height: 1.2;
+    text-transform: uppercase;
+    color: var(--text-black);
+}
+
+.brand-wrapper .brand-desc{
+    font-size: 16px;
+    font-weight: 600;
+    font-family: var(--text-font);
+    line-height: 1.5;
+    color: var(--text-gray);
+}

@@ -1,0 +1,99 @@
+.features-wrapper{
+    padding: 100px 0;
+}
+
+.features-wrapper .feature-title{
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1;
+    font-family: var(--text-font);
+    color: var(--primary-color);
+}
+
+.features-wrapper .features-heading{
+    font-size: 35px;
+    font-weight: 800;
+    line-height: 1.5;
+    font-family: var(--text-font);
+}
+
+.feature-info{
+    padding: 100px 0;
+}
+.feature-info .feature-img{
+    background-image: url('../../assets/images/feature.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 350px;
+    height: 700px;
+}
+
+.feature-info .feature-data{
+    padding: 50px 0;
+}
+
+.feature-data .feature-number{
+    font-size: 40px;
+    font-family: var(--text-font);
+    color: var(--text-white);
+}
+
+.feature-data .feature-text{
+    font-size: 16px;
+    font-weight: 500;
+    font-family: var(--text-font);
+    color: var(--text-white);
+}
+
+.feature-data .horizontal{
+    border-bottom: 1px solid white;
+    width: 80px;
+    margin-left: 120px;
+    margin-bottom: 50px;
+}
+
+.feature-rank{
+    padding: 60px 30px;
+    border: 1px solid gray;
+}
+
+.feature-rank .fa-magnifying-glass{
+    color: var(--primary-color);
+}
+
+.feature-rank .rank-title{
+    font-weight: bold;
+    font-family: var(--text-font);
+    color: var(--text-black);
+}
+
+.feature-rank .rank-text{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    font-family: var(--text-font);
+    color: var(--text-gray);
+}
+
+.brands{
+    padding-top: 20px;
+}
+
+.brands .brands-data{
+    width: 350px;
+    padding: 80px 20px;
+    border: 1px solid gray;
+}
+
+.data{
+    margin-left: 135px;
+}
+
+.brands-data .rank-text{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    font-family: var(--text-font);
+    color: var(--text-gray);
+}
+

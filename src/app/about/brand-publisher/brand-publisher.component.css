@@ -1,0 +1,23 @@
+.brand-publisher .publisher-title{
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.5;
+    font-family: var(--text-font);
+    text-transform: uppercase;
+    color: var(--primary-color);
+}
+
+.publisher{
+    padding-bottom: 100px;
+}
+
+.publisher img{
+    width: 120px;
+    height: 30px;
+    cursor: pointer;
+    filter: grayscale(100%);
+}
+
+.publisher img:hover{
+    transform: scale(1.1);
+}

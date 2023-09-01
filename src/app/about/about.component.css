@@ -1,0 +1,33 @@
+.about-wrapper .about-heading{
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-top: -25px;
+    background: linear-gradient(rgb(255, 255, 255) 52%, rgb(255, 0, 0) 61%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: wave 2000ms ease alternate infinite;
+    transition: all 0.4s ease;
+}
+.media-wrapper{
+    padding: 50px 0;
+}
+
+.media-wrapper .media-title{
+    font-size: 16px;
+    font-weight: 600;
+    font-family: var(--text-font);
+    text-transform: uppercase;
+    color: var(--text-black);
+}
+
+.media-wrapper .media-text{
+    width: 340px;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 1.5;
+    color: var(--text-gray);
+}
+

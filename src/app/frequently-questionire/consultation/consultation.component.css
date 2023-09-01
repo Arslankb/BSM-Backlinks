@@ -1,0 +1,24 @@
+.consultation-wrapper{
+    margin-top: 100px;
+    padding: 100px 0;
+    background: var(--bg-red);
+}
+
+.consultation-wrapper .consultation_title{
+    font-family: var(--text-font);
+    font-weight: 800;
+    font-size: 34px;
+    line-height: 1.25;
+    margin-bottom: 0;
+    color: var(--text-white);
+}
+
+.consultation-wrapper .learn-more-btn{
+    padding: 20px 40px;
+    border-radius: 10px;
+    color: var(--primary-color);
+    font-size: 20px;
+    font-weight: bold;
+    font-family: var(--text-font);
+    background: var(--bg-white);
+}

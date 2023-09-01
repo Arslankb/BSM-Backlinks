@@ -1,0 +1,44 @@
+.sub-contact{
+    padding: 130px 0;
+    background: rgb(222, 46, 41);
+}
+
+.sub-contact .sub-text{
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1;
+    font-family: var(--text-font);
+    color: var(--text-white);
+}
+
+.sub-contact .sub-title {
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 1.5;
+    font-family: var(--text-font);
+    color: var(--text-white);
+}
+
+.sub-contact .fa-envelope{
+    padding-top: 5px;
+    padding-right: 10px;
+    font-size: 20px;
+    color: var(--text-white);
+
+    
+}
+
+.sub-contact .email{
+    font-size: 16px;
+    font-weight: bold;
+    font-family: var(--text-font);
+    color: var(--text-white);
+}
+
+.sub-contact .contact-btn{
+    margin-left: 40px;
+}
+
+.sub-contact .mail-us{
+    padding-left: 100px;
+}
